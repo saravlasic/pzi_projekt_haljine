@@ -73,7 +73,7 @@
     <header class="">
         <nav class="navbar navbar-expand-lg">
             <div class="container">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="/">
                     <h2>Sparkle <em>Shop</em></h2>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
@@ -105,7 +105,6 @@
                                         }}]<span class="sr-only">(current)</span></i></a>
                             </li>
 
-                            <x-app-layout></x-app-layout>
 
                             @else
                             <li><a class="nav-link" href="{{ route('login') }}" >Log in</a></li>

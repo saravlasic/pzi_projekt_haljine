@@ -57,7 +57,6 @@
                       <a class="nav-link" href="{{url('showcart')}}"><i class="fas fa-shopping-cart">Košarica</i></a>
                     </li>
                        
-                        <x-app-layout></x-app-layout>
                         
                     @else
                         <li><a class="nav-link" href="{{ route('login') }}" >Log in</a></li>
