@@ -36,7 +36,7 @@
 
         label {
             display: inline-block;
-            width: 100px; /* Prilagodite prema potrebi */
+            width: 100px; 
             margin-bottom: 5px;
         }
 

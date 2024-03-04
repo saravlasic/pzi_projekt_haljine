@@ -13,7 +13,7 @@
         .table-wrapper {
             height: 83vh;
             overflow-y: auto;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); /* Dodajte box-shadow stil za sjenu */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); 
             margin-top: 20px;
             position: relative;
             background-color: #f0f0f0;
@@ -60,8 +60,8 @@
         }
 
         tbody {
-            max-height: 300px; /* Postavite maksimalnu visinu tbody-a kako biste postigli scroll */
-            overflow-y: auto; /* Omogućite vertikalni scroll za tbody */
+            max-height: 300px; 
+            overflow-y: auto; 
         }
 
         tr:nth-child(even) {

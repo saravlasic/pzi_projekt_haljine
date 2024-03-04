@@ -12,10 +12,10 @@
 
     <title>Sparkle Shop</title>
 
-    <!-- Bootstrap core CSS -->
+    
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Additional CSS Files -->
+   
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-sixteen.css">
     <link rel="stylesheet" href="assets/css/owl.css">
@@ -44,20 +44,20 @@
         }
 
         th {
-            background-color: #007bff; /* Dodajte boju zaglavlja prema vašim željama */
+            background-color: #007bff; 
             color: white;
         }
 
         tr:nth-child(odd) {
-            background-color: #f8f9fa; /* Boja redaka za neparne retke */
+            background-color: #f8f9fa; 
         }
 
         tr:nth-child(even) {
-            background-color: #e9ecef; /* Boja redaka za parne retke */
+            background-color: #e9ecef; 
         }
 
         td {
-            border-right: 1px solid #dee2e6; /* Dodajte vertikalne crtice */
+            border-right: 1px solid #dee2e6; 
         }
 
         .btn-success {
@@ -175,11 +175,11 @@
         </form>
     </div>
 
-    <!-- Bootstrap core JavaScript -->
+    
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Additional Scripts -->
+   
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/owl.js"></script>
     <script src="assets/js/slick.js"></script>
@@ -188,11 +188,11 @@
 
     <script language="text/Javascript">
 
-        cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
-        function clearField(t) { //declaring the array outside of the
-            if (!cleared[t.id]) { // function makes it static and global
-                cleared[t.id] = 1; // you could use true and false, but that's more typing
-                t.value = ''; // with more chance of typos
+        cleared[0] = cleared[1] = cleared[2] = 0; 
+        function clearField(t) { 
+            if (!cleared[t.id]) { 
+                cleared[t.id] = 1;
+                t.value = ''; 
                 t.style.color = '#fff';
             }
         }

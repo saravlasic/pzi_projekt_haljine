@@ -11,10 +11,10 @@
 
     <title>Sparkle Shop</title>
 
-    <!-- Bootstrap core CSS -->
+    
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Additional CSS Files -->
+    
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-sixteen.css">
     <link rel="stylesheet" href="assets/css/owl.css">
@@ -26,7 +26,7 @@
 
   <body>
 
-    <!-- Header -->
+   
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
@@ -74,7 +74,7 @@
       </nav>
 
     </header>
-    <!-- Page Content -->
+    
     <div class="page-heading contact-heading header-text">
       <div class="container">
         <div class="row">
@@ -153,16 +153,16 @@
           <div class="row">
               <div class="col-md-12">
                   <div class="inner-content">
-                      <!-- Dodajte ikonice za Instagram i Facebook -->
+                      
                       <div class="social-icons">
                           <a href="https://www.instagram.com" target="_blank" class="icon-link">
                               <i class="fab fa-instagram fa-2x"></i>
                           </a>
-                          <span class="icon-separator"></span> <!-- Razmak između ikonica -->
+                          <span class="icon-separator"></span> 
                           <a href="https://www.facebook.com" target="_blank" class="icon-link">
                               <i class="fab fa-facebook fa-2x"></i>
                           </a>
-                          <span class="icon-separator"></span> <!-- Razmak između ikonica -->
+                          <span class="icon-separator"></span> 
                           <a href="https://www.linkedin.com" target="_blank" class="icon-link">
                               <i class="fab fa-linkedin fa-2x"></i>
                           </a>
@@ -175,16 +175,16 @@
     <style>
         .icon-separator {
           display: inline-block;
-          width: 20px; /* Prilagodite željeni razmak */
+          width: 20px; 
       }
       </style>
 
-    <!-- Bootstrap core JavaScript -->
+    
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 
-    <!-- Additional Scripts -->
+    
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/owl.js"></script>
     <script src="assets/js/slick.js"></script>

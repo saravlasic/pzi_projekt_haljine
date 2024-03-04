@@ -133,8 +133,8 @@
                     </div>
                     <div class="down-content">
                         <h4>Sara Vlašić</h4>
-                        <span>Web Developer</span>
-                        <p>Studentica treće godine informatike, Sara, strastveno je posvećena web developmentu i stvaranju elegantnih rješenja. U suradnji s Anđelom, zajedno su odradile ovaj projekt za predmet Programiranje za internet. Svoj fokus usmjerava na nadogradnju ove stranice kako bi je iskoristila u potencijalnom poslu s haljinama.</p>
+                        <span>Studentica</span>
+                        <p>Studentica treće godine informatike, Sara, u suradnji s Anđelom, zajedno su odradile ovaj projekt za predmet Programiranje za internet. Svoj fokus usmjerava na nadogradnju ove stranice kako bi je iskoristila u potencijalnom poslu s haljinama.</p>
                     </div>
                 </div>
             </div>
@@ -145,8 +145,8 @@
                     </div>
                     <div class="down-content">
                         <h4>Anđela Barbarić</h4>
-                        <span>Graphic Designer</span>
-                        <p>Studentica treće godine informatike, Anđela, posjeduje snažan interes za dizajn. Doprinijela je kako developerskom tako i estetskom aspektu projekta, stvarajući vizualni identitet koji privlači korisnike. Anđela, kao i Sara, planira dalje nadograditi ovu stranicu nekada u budućnosti zbog potencijalnog posla s haljinama.</p>
+                        <span>Studentica</span>
+                        <p>Studentica treće godine informatike, Anđela, posjeduje snažan interes za dizajn. Doprinijela je ovom projektu stvarajući vizualni identitet koji privlači korisnike. Anđela, kao i Sara, planira dalje nadograditi ovu stranicu nekada u budućnosti zbog potencijalnog posla s haljinama.</p>
                     </div>
                 </div>
             </div>

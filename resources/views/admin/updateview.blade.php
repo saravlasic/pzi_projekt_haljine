@@ -20,8 +20,8 @@
 
         label {
             display: inline-block;
-            width: 100px; /* Prilagodite željenu širinu */
-            margin-bottom: 5px; /* Smanjite razmak između labela */
+            width: 100px; 
+            margin-bottom: 5px; 
         }
 
         .card-container {
@@ -29,7 +29,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
             overflow-x: auto;
-            background-color: white; /* Bijela pozadina iza kartice */
+            background-color: white; 
         }
 
         .card-header {
@@ -46,7 +46,7 @@
 
         .form-group {
             padding: 10px;
-            margin-bottom: 10px; /* Smanjite razmak između grupa */
+            margin-bottom: 10px; 
             margin-top:10px;
         }
 
@@ -56,14 +56,14 @@
         }
 
         .form-group label {
-            color: white; /* Bijela boja teksta */
-            width: 150px; /* Prilagodite željenu širinu labela */
+            color: white; 
+            width: 150px; 
             display: inline-block;
         }
 
         .form-group input {
-            color: black; /* Crna boja teksta */
-            width: calc(100% - 160px); /* Prilagodite željenu širinu polja za unos */
+            color: black; 
+            width: calc(100% - 160px); 
             padding: 10px;
             box-sizing: border-box;
         }
@@ -131,7 +131,7 @@
                             </div>
 
                             <div class="form-group">
-                                <label></label> <!-- prazna oznaka kako biste dodali prostor između labela -->
+                                <label></label> 
                                 <input class="btn btn-success" type="submit" name="Uredi" value="Uredi">
                             </div>
                         </form>

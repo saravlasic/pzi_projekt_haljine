@@ -29,7 +29,7 @@
                             <form action="{{url('addcart',$product->id)}}" method="POST">
                                 @csrf
 
-                               <!-- <input type="number" value="1" min="1" class="form-control" style="width:100px" name="quantity" > -->
+                               
                                 
                                 <br>
 
@@ -60,14 +60,14 @@
 
 <style>
     .btn-custom {
-        background-color: #ffffff; /* Bijela pozadina */
-        color: #f840cd; /* Rozi tekst */
-        border: 2px solid #f840cd; /* Rozi obrub */
+        background-color: #ffffff; 
+        color: #f840cd; 
+        border: 2px solid #f840cd; 
     }
 
     .btn-custom:hover {
-        background-color: #f840cd; /* Rozi hover efekt */
-        color: #ffffff; /* Bijeli tekst na hoveru */
+        background-color: #f840cd; 
+        color: #ffffff; 
     }
     .product-item {
         position: relative;
@@ -79,8 +79,8 @@
 
     .product-image {
         width: 100%;
-        height: 200px; /* Prilagodite željenu visinu */
-        object-fit: contain; /* Promijenjeno s object-fit: cover; */
+        height: 200px; 
+        object-fit: contain; 
         display: block;
         margin: 0 auto;
         transition: transform 0.3s ease-in-out;

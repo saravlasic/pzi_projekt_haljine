@@ -35,16 +35,16 @@
     }
 
     .blurry-window {
-        background: rgba(220, 220, 220, 0.9); /* Svetlo sivkasta boja sa prozirnošću */
+        background: rgba(220, 220, 220, 0.9);
         border-radius: 10px;
-        padding: 30px; /* Povećana visina */
+        padding: 30px; 
         backdrop-filter: blur(10px);
-        color: #333; /* Tamno siva boja teksta */
+        color: #333; 
         text-align: center;
     }
 
     .welcome-heading {
-        color: #1f618d; /* Tamno plava boja za naslov */
+        color: #1f618d; 
         font-size: 36px;
         margin-bottom: 10px;
     }
@@ -59,7 +59,7 @@
     }
 
     .quick-links-heading {
-        color: #1f618d; /* Tamno plava boja za naslov brzih poveznica */
+        color: #1f618d;
         font-size: 28px;
         margin-bottom: 10px;
     }
