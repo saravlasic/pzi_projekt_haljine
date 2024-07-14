@@ -54,8 +54,18 @@
                     @auth
 
                     <li class="nav-item">
-                      <a class="nav-link" href="{{url('showcart')}}"><i class="fas fa-shopping-cart">Košarica</i></a>
+                    <a class="nav-link" href="{{url('showcart')}}"><i
+                                        class="fas fa-shopping-cart"><span class="sr-only">(current)</span></i></a>
+
                     </li>
+                    <li class="nav-item">
+                            <a class="nav-link" href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                                Log Out
+                            </a>
+                            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                                @csrf
+                            </form>
+                        </li>
                        
                         
                     @else
